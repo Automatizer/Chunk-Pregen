@@ -1,0 +1,10 @@
+name: ChunkPregen
+main: me.auto.main.Main
+version: 0.1
+author: Auto
+api-version: 1.13
+description: Pregenerates chunks in a radius from the specified point.
+permissions:
+    
+command:
+    
